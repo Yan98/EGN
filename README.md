@@ -16,15 +16,7 @@
 ## Dataset
 * Obtain [10xgenomics dataset](https://www.10xgenomics.com/resources/datasets?query=&page=1&configure%5Bfacets%5D%5B0%5D=chemistryVersionAndThroughput&configure%5Bfacets%5D%5B1%5D=pipeline.version&configure%5BhitsPerPage%5D=500&configure%5BmaxValuesPerFacet%5D=1000).
 
-* We use slide image:
--- 1.0.0/V1_Breast_Cancer_Block_A_Section_1
--- 1.0.0/V1_Breast_Cancer_Block_A_Section_2 
--- 1.1.0/V1_Breast_Cancer_Block_A_Section_1
--- 1.1.0/V1_Breast_Cancer_Block_A_Section_2 
--- 1.2.0/Parent_Visium_Human_BreastCancer
--- 1.2.0/Targeted_Visium_Human_BreastCancer_Immunology 
-
-* Structure the data files as follows.
+* We use the slide images blow, and please structure the data files as follows.
 ```
 └───10xgenomics
     └───1.0.0
