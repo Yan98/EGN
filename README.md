@@ -129,7 +129,7 @@ done
 * This is a minimal exemple to train EGN and EGGN on the 10xgenomics dataset. If you want to use StyleGAN-based exemplar retrival, please refer to [S2FGAN](https://github.com/Yan98/S2FGAN). 
 * There are some typos on the paper. We have updated the pdf. Please find it [here](./doc/egn.pdf).
 * Please find the EGGN [here](./doc/eggn.pdf).
-* We have refactored the code, and potential error may exists. If you have question related to our work, please drop [me](mailto:yan.yang@anu.edu.au?subject=[GitHub]EGN) an email.
+* We have refactored the code, and potential error may exist. If you have question related to our work, please drop [me](mailto:yan.yang@anu.edu.au?subject=[GitHub]EGN) an email.
 
 
 
