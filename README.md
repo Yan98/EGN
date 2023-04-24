@@ -143,4 +143,17 @@ If you find [EGN](https://openaccess.thecvf.com/content/WACV2023/papers/Yang_Exe
   url       = {https://doi.org/10.1109/WACV56688.2023.00501},
   doi       = {10.1109/WACV56688.2023.00501},
 }
+
+@article {eggn2023,
+	author = {Yan Yang and Md Zakir Hossain and Eric Stone and Shafin Rahman},
+	title = {Spatial Transcriptomics Analysis of Gene Expression Prediction using Exemplar Guided Graph Neural Network},
+	elocation-id = {2023.03.30.534914},
+	year = {2023},
+	doi = {10.1101/2023.03.30.534914},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2023/03/30/2023.03.30.534914},
+	eprint = {https://www.biorxiv.org/content/early/2023/03/30/2023.03.30.534914.full.pdf},
+	journal = {bioRxiv}
+}
+
 ```
